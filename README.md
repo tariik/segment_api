@@ -1,6 +1,8 @@
 # segment_api
 
  ```sh
+ git cone https://github.com/tariik/segment_api.git
+ 
  composer install
  
  php bin\phpunit
