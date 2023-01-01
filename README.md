@@ -7,3 +7,5 @@
  
  symfony server:start
 ```
+## Ruta
+http://localhost:8000/api/segments
