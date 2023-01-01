@@ -6,7 +6,7 @@ use Symfony\Contracts\HttpClient\HttpClientInterface;
 
 class AvailabilityPriceClient
 {
-    private const ENDPOINT = 'https://testapi.lleego.com/prueba-tecnica/availability-pricexx';
+    private const ENDPOINT = 'https://testapi.lleego.com/prueba-tecnica/availability-price';
     private $httpClient;
     
     public function __construct(HttpClientInterface $httpClient)
