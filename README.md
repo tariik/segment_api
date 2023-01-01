@@ -1,7 +1,7 @@
 # segment_api
 
  ```sh
- git cone https://github.com/tariik/segment_api.git
+ git clone https://github.com/tariik/segment_api.git
  
  composer install
  
