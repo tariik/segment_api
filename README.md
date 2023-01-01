@@ -3,6 +3,8 @@
  ```sh
  git clone https://github.com/tariik/segment_api.git
  
+ cd segment_api
+ 
  composer install
  
  php bin\phpunit
